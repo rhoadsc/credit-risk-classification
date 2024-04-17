@@ -22,7 +22,8 @@ Logistic Regression Model 1:
 -Precision: 93% (average precision)
 -Accuracy: 94%
 -Recall: 95% (average recall)
--Logistic Regression Model 2:
+
+Logistic Regression Model 2:
 -Precision: 93% (average precision)
 -Accuracy: 100%
 -Recall: 100%
